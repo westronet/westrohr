@@ -61,8 +61,8 @@ section-order = [
 
 [project.urls]
 Homepage = "https://frappehr.com/"
-Repository = "https://github.com/frappe/hrms.git"
-"Bug Reports" = "https://github.com/frappe/hrms/issues"
+Repository = "https://github.com/westronet/westrohr.git"
+"Bug Reports" = "https://github.com/westronet/westrohr/issues"
 
 
 [tool.bench.frappe-dependencies]
