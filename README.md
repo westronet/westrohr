@@ -13,10 +13,6 @@
 	</a>
 </p>
 
-
-
-
-
 </div>
 
 ## Introduction
