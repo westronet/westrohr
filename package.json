@@ -3,13 +3,13 @@
   "description": "Open Source HR & Payroll System powered by the Frappe Framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frappe/hrms.git"
+    "url": "git+https://github.com/westronet/westrohr.git"
   },
   "homepage": "https://frappehr.com",
   "author": "Frappe Technologies Pvt. Ltd.",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/frappe/hrms/issues"
+    "url": "https://github.com/westronet/westrohr/issues"
   },
   "aworkspaces": [
     "frappe-ui",
