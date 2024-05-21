@@ -1,15 +1,15 @@
 ---
 name: Bug Report
-description: Report a bug encountered while using Frappe HR
+description: Report a bug encountered while using Westro HR
 labels: ["bug"]
 
 body:
   - type: markdown
     attributes:
       value: |
-        Welcome to Frappe HR issue tracker! Before creating an issue, please consider the following:
+        Welcome to Westro HR issue tracker! Before creating an issue, please consider the following:
 
-        1. This tracker should only be used to report bugs and request features / enhancements to Frappe HR
+        1. This tracker should only be used to report bugs and request features / enhancements to Westro HR
             - For questions and general support, checkout the [documentation](https://frappehr.com/docs) or use the [forum](https://discuss.frappe.io) to get inputs from the open source community.
             - For documentation issues, propose edit on the [documentation site](https://frappehr.com/docs) directly.
         2. When making a bug report, make sure you provide all required information. The easier it is for
@@ -29,7 +29,7 @@ body:
     id: module
     attributes:
       label: Module
-      description: Select the affected module of Frappe HR.
+      description: Select the affected module of Westro HR.
       multiple: true
       options:
         - HR
@@ -42,11 +42,11 @@ body:
     id: exact-version
     attributes:
       label: Version
-      description: Share exact version number of Frappe, ERPNext and Frappe HR you are using.
+      description: Share exact version number of Frappe, ERPNext and Westro HR you are using.
       placeholder: |
         Frappe version -
         ERPNext version -
-        Frappe HR version -
+        Westro HR version -
     validations:
       required: true
 

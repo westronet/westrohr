@@ -1,4 +1,4 @@
-// Copyright (c) 2019, Frappe Technologies Pvt. Ltd. and Contributors
+// Copyright (c) 2019, Westronet inc and Contributors
 // License: GNU General Public License v3. See license.txt
 
 // render

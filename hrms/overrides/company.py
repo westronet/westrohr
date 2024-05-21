@@ -1,4 +1,4 @@
-# Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and Contributors
+# Copyright (c) 2022, Westronet inc and Contributors
 # License: GNU General Public License v3. See license.txt
 
 import json
@@ -32,7 +32,7 @@ def delete_company_fixtures():
 			# regional file or method does not exist
 			pass
 		except Exception as e:
-			frappe.log_error("Unable to delete country fixtures for Frappe HR")
+			frappe.log_error("Unable to delete country fixtures for Westro HR")
 			msg = _("Failed to delete defaults for country {0}.").format(frappe.bold(country))
 			msg += "<br><br>" + _("{0}: {1}").format(frappe.bold(_("Error")), get_error_message(e))
 			frappe.throw(msg, title=_("Country Fixture Deletion Failed"))
@@ -45,7 +45,7 @@ def run_regional_setup(country):
 	except ImportError:
 		pass
 	except Exception as e:
-		frappe.log_error("Unable to setup country fixtures for Frappe HR")
+		frappe.log_error("Unable to setup country fixtures for Westro HR")
 		msg = _("Failed to setup defaults for country {0}.").format(frappe.bold(country))
 		msg += "<br><br>" + _("{0}: {1}").format(frappe.bold(_("Error")), get_error_message(e))
 		frappe.throw(msg, title=_("Country Setup failed"))

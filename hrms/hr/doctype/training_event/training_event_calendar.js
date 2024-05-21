@@ -1,4 +1,4 @@
-// Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors
+// Copyright (c) 2015, Westronet inc and Contributors
 // License: GNU General Public License v3. See license.txt
 
 frappe.views.calendar["Training Event"] = {
