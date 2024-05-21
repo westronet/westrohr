@@ -7,17 +7,11 @@
 		<p> modern, and easy-to-use HR and Payroll Software for all organizations</p>
 	</p>
 
-[![CI](https://github.com/westronet/westrohr/actions/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/westronet/westrohr/actions/workflows/ci.yml)
-[![codecov](https://codecov.io/gh/frappe/hrms/branch/develop/graph/badge.svg?token=0TwvyUg3I5)](https://codecov.io/gh/frappe/hrms)
-
-[https://frappehr.com](https://frappehr.com)
-
 <p align="center">
 	<a href="https://www.producthunt.com/posts/frappe-hr?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-frappe&#0045;hr" target="_blank">
 		<img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=421276&theme=dark" alt="Frappe&#0032;HR - The&#0032;missing&#0032;open&#0032;source&#0032;HR&#0032;and&#0032;payroll&#0032;software | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
 	</a>
 </p>
-
 
 
 
