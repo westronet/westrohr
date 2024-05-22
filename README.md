@@ -51,7 +51,7 @@ Westro HR has everything you need to drive excellence within the company. It's a
 	```
 4. After that, you can install the hrms app on the required site by running
 	```sh
-	$ bench --site sitename install-app westrohr
+	$ bench --site sitename install-app westroh
 	```
 
 
