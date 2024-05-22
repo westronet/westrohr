@@ -1,4 +1,4 @@
-// Copyright (c) 2022, Frappe Technologies Pvt. Ltd. and contributors
+// Copyright (c) 2022, Westronet inc and contributors
 // For license information, please see license.txt
 
 frappe.ui.form.on("Goal", {

@@ -1,6 +1,6 @@
 <div align="center">
 	<a href="https://frappehr.com">
-		<img src="https://raw.githubusercontent.com/frappe/hrms/develop/hrms/public/images/frappe-hr-logo.png" height="128" alt="Frappe HR Logo">
+		<img src="https://raw.githubusercontent.com/frappe/hrms/develop/hrms/public/images/frappe-hr-logo.png" height="128" alt="Westro HR Logo">
 	</a>
 	<h2>Westro HR</h2>
 	<p align="center">
@@ -51,7 +51,7 @@ Westro HR has everything you need to drive excellence within the company. It's a
 	```
 4. After that, you can install the hrms app on the required site by running
 	```sh
-	$ bench --site sitename install-app westrohr
+	$ bench --site sitename install-app westroh
 	```
 
 

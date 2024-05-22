@@ -1,8 +1,8 @@
 app_name = "hrms"
-app_title = "Frappe HR"
-app_publisher = "Frappe Technologies Pvt. Ltd."
+app_title = "Westro HR"
+app_publisher = "Westronet inc"
 app_description = "Modern HR and Payroll Software"
-app_email = "contact@frappe.io"
+app_email = "westronet@gmail.com"
 app_license = "GNU General Public License (v3)"
 required_apps = ["frappe/erpnext"]
 source_link = "http://github.com/frappe/hrms"

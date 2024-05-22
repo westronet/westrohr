@@ -1,4 +1,4 @@
-# Copyright (c) 2015, Frappe Technologies Pvt. Ltd. and Contributors and Contributors
+# Copyright (c) 2015, Westronet inc and Contributors and Contributors
 # See license.txt
 
 import frappe

@@ -1,4 +1,4 @@
-# Copyright (c) 2013, Frappe Technologies Pvt. Ltd. and contributors
+# Copyright (c) 2013, Westronet inc and contributors
 # License: MIT. See LICENSE
 
 from pypika import functions as fn
